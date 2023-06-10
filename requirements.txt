@@ -1,0 +1,5 @@
+streamlit==1.17.0
+pandas==1.4.4
+numpy==1.21.5
+scikit-learn
+docx2txt
